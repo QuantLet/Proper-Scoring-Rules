@@ -1,6 +1,6 @@
-Name of Quantlet: Proper Scoring Rules
+Name of Quantlet: Proper Scoring Rules - Local scale dependence of scoring rules
 
-Published in: Proper Scoring Rules - Local scale dependence of scoring rules
+Published in: Proper Scoring Rules
 
 Description: Plots an example of the importance of local scale invariance, using data generated from a gaussian mixture process.
 

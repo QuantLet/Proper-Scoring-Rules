@@ -1,6 +1,6 @@
-Name of Quantlet: Proper Scoring Rules
+Name of Quantlet: Proper Scoring Rules - Multivariate Probabilistic Forecasting
 
-Published in: Proper Scoring Rules - Multivariate Probabilistic Forecasting
+Published in: Proper Scoring Rules
 
 Description: Creates animation illustrating the discrimination ability of the energy scores in gaussian multivariate prediction based on errors in mean, variance and covariance.
 

@@ -1,6 +1,6 @@
-Name of Quantlet: Proper Scoring Rules
+Name of Quantlet: Proper Scoring Rules - Probabilistic forecasting examples
 
-Published in: Proper Scoring Rules - Probabilistic forecasting examples
+Published in: Proper Scoring Rules
 
 Description: Plot examples of probabilistic forecasting
 

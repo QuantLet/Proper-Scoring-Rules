@@ -1,7 +1,7 @@
 
-Name of Quantlet: Proper Scoring Rules
+Name of Quantlet: Proper Scoring Rules - Locality of scoring rules
 
-Published in: Proper Scoring Rules - Locality of scoring rules
+Published in: Proper Scoring Rules
 
 Description: Plots the Log score and Brier score for 3 class classification problem, highlighting the locality of log-score
 

@@ -1,7 +1,7 @@
 
-Name of Quantlet: Proper Scoring Rules
+Name of Quantlet: Proper Scoring Rules - Scoring rules characterization
 
-Published in: Proper Scoring Rules - Scoring rules characterization
+Published in: Proper Scoring Rules
 
 Description: Creates animations of the characterisation of Log-score and Brier-score
 
