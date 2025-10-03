@@ -1,0 +1,11 @@
+Name of Quantlet: Proper Scoring Rules
+
+Published in: Proper Scoring Rules - Local scale dependence of scoring rules
+
+Description: Plots an example of the importance of local scale invariance, using data generated from a gaussian mixture process.
+
+Keywords: Scoring Rules, Binary classification, Forecasting, Brier score, Log score
+
+Author: Owen Chaffard, Wolfgang Karl Härdle
+
+Submitted:  05.08.2025

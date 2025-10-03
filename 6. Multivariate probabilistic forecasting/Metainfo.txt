@@ -1,0 +1,11 @@
+Name of Quantlet: Proper Scoring Rules
+
+Published in: Proper Scoring Rules - Multivariate Probabilistic Forecasting
+
+Description: Creates animation illustrating the discrimination ability of the energy scores in gaussian multivariate prediction based on errors in mean, variance and covariance.
+
+Keywords: Scoring Rules, Binary classification, Forecasting, Brier score, Log score
+
+Author: Owen Chaffard, Wolfgang Karl Härdle
+
+Submitted:  05.08.2025
